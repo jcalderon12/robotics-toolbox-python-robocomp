@@ -23,7 +23,7 @@ To install the bleeding-edge version from GitHub
 ```shell script
 git clone https://github.com/jcalderon12/robotics-toolbox-python-robocomp.git
 cd robotics-toolbox-python-robocomp
-pip3 install -e .
+pip3 install .
 ```
 
 <a id='4'></a>
